@@ -165,4 +165,4 @@ Each reservation generates one bill with a total amount.
 2. Identify entities, relationships, and attributes for each.  
 3. Draw ER diagrams using **draw.io / diagrams.net** or hand-drawn & scanned.  
 4. Fill in all tables and assumptions for each scenario.  
-5. Export the completed Markdown (with diagrams) as **a single PDF**
+5. Export the completed Markdown (with diagrams) as **a single PDF**.

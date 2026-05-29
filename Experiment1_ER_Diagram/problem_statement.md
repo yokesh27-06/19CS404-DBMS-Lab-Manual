@@ -22,8 +22,6 @@ FlexiFit Gym wants a database to manage its members, trainers, and fitness progr
 - Payments tracked for memberships and sessions.
 
 ### ER Diagram:
-Name: Rithika L
-Reg No: 212224230231
 <img width="1203" height="827" alt="dbmsexp1 1" src="https://github.com/user-attachments/assets/7e5caa3d-8b50-4a09-8a1b-e3202d3eb02b" />
 
 
@@ -73,8 +71,6 @@ The Central Library wants to manage book lending and cultural events.
 - Overdue fines apply for late returns.
 
 ### ER Diagram:
-Name:Rithika L
-Reg No: 212224230231
 <img width="1326" height="773" alt="dbmsexp1 2" src="https://github.com/user-attachments/assets/368cbca2-f303-4f70-ac14-23da60e2b068" />
 
 
@@ -124,9 +120,6 @@ A popular restaurant wants to manage reservations, orders, and billing.
 - Waiters assigned to serve reservations.
 
 ### ER Diagram:
-
- Name: Rithika L
- Reg No: 212224230231
 
 ![dbmsexp1 3](https://github.com/user-attachments/assets/81e742ed-dd9d-4ef1-a758-d99244ed71d8)
 

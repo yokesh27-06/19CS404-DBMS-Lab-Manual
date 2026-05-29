@@ -1,5 +1,9 @@
 # Experiment 7: PL/SQL – Variables, Control Structures and Loops
 
+```
+Name : Mukesh R
+Reg No : 212224240098
+
 ## AIM
 To write and execute simple PL/SQL programs using variables, loops, and conditional statements.
 
@@ -37,7 +41,7 @@ END;
 **Expected Output:**  
 Greater number is: 80
 # Program 
-```
+```python
 DECLARE
     num1 NUMBER := 80;  -- First number
     num2 NUMBER := 50;  -- Second number
@@ -66,7 +70,7 @@ END;
 **Expected Output:**  
 Sum of first 10 natural numbers is: 55
 # Program
-```
+```python
 
 SET SERVEROUTPUT ON;
 
@@ -100,7 +104,7 @@ END;
 n = 7  
 Fibonacci sequence: 0, 1, 1, 2, 3, 5, 8
 # Program 
-```
+```python
 SET SERVEROUTPUT ON;
 
 DECLARE
@@ -140,7 +144,7 @@ END;
 n = 1535  
 Reversed number is 5351
 # Program 
-```
+```python
 SET SERVEROUTPUT ON;
 
 DECLARE
@@ -175,7 +179,7 @@ END;
 a = 10, b = 9, c = 15  
 Largest of three number is 15
 # Program
-```
+```python
 SET SERVEROUTPUT ON;
 
 DECLARE
